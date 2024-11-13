@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+shared_story.json
+shared_stories/*
+!shared_stories/README.md
+video_links.txt
